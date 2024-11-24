@@ -11,4 +11,4 @@ import { ReportRoutingModule } from './report-routing.module';
     ReportRoutingModule
   ]
 })
-export class BillingModule { }
+export class ReportModule { }
